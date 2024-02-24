@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7CnPx5QB0FujQJzaIv+MFnkhtbQxYL5+FJd2k4Ln+bu8dDszhgyA90oM6ihMqwuzSU0zCmdW60RgF8p9wCusLQ==",
+  "success": true,
+  "projectFilePath": "C:\\DevOps\\my_repository\\API_Projects\\ExcelDDL\\ExcelDDL\\ExcelDDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cuong\\.nuget\\packages\\fastexcel\\3.0.13\\fastexcel.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

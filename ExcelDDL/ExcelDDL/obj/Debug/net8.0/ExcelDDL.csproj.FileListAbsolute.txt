@@ -1,0 +1,17 @@
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\bin\Debug\net8.0\ExcelDDL.exe
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\bin\Debug\net8.0\ExcelDDL.deps.json
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\bin\Debug\net8.0\ExcelDDL.runtimeconfig.json
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\bin\Debug\net8.0\ExcelDDL.dll
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\bin\Debug\net8.0\ExcelDDL.pdb
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\bin\Debug\net8.0\FastExcel.dll
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.csproj.AssemblyReference.cache
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.AssemblyInfoInputs.cache
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.AssemblyInfo.cs
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.csproj.CoreCompileInputs.cache
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.csproj.CopyComplete
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.dll
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\refint\ExcelDDL.dll
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.pdb
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ExcelDDL.genruntimeconfig.cache
+C:\DevOps\my_repository\API_Projects\ExcelDDL\ExcelDDL\obj\Debug\net8.0\ref\ExcelDDL.dll
