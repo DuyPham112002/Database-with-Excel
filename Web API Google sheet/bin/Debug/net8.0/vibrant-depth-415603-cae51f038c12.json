@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vibrant-depth-415603",
+  "private_key_id": "08af4fb7150f54365067c1d92af885b407fae33f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDjFsn6O6uNXF4R\n2RanR9kLasbaAf5qbGOQ6T4LuWoE+d4vmRc30NvFoQU9at4pOUfYbA8NcJjTnW6g\nMMbIy6jHEvyz49orL0bSAV6H408sdoh5E3HI4d73vRbk8yeAogzIP8ENVGJqGJpi\nFFetkOMcSbWNn4CjdIbfiDtnmqh3n/E8l6i6yyKYwtCY2Peu2eL8rzMc2kIyJv8J\ngCqsbnwk6KqaV9bEB3dIyHozM9GPnSnwFCiasRnhs6sboseQ7ud4M9p3BBMZ7Df6\nuFQYOzYGdH8hvEtFoXCoocoZvfVJ9UiPTfLTKUriiHKJClagm2m1Sw0lQk0vw0QP\nySVAeEIhAgMBAAECggEAIDS2r2jwAwvTAYf+uPmtE/vwOLHosZIuqroRhRsmKI+B\nTdHR46YYzRXxhszVthX8FPr6RYcu/XAJ5OkWABs2FAmi0iZh5hb93cG49N+tdlpX\nL4is7fbupsbn7M95TjptQqccC3ZowLA9kORerOxr8TKY731sAoJ/sEsDVcWu18wQ\nR6CKQlKV9k6tqTAhsNhhdVzHnblJo++HsJNCs7a5ZaH8HpwY0s2QChVTHnES5I88\neCvP0j5zcDEfzHXlYTX6a9CkYXfFq9VgHS2xxyx6uWwhG19GJFMwvTpXQ+X1fGb6\nnPHOp40G7LcnHXFtNLgzHvQLukvjmUiLrMNfH8aKOQKBgQDyv6rCVeOw1fAuC7yM\nkernBBQfgDBLsS9BBKI6/lDNwSI9xbcB3jKeJmiV5F/3Rspey6YfBe2FCSRBaL7D\n89fSRiNeEOSXbZvLVqQOcYKWLJFmqKbkcefofHylVjhkax9D7I0JvECFOa1wOpDa\nPW/g8Ycg/Hq/tlXUk9TuBZVTnQKBgQDvfEh4awXfKlqMMJlmHVS4ai/vLBj+QEOe\nyDtleB6dWC7D9faaWABCtAbPx+pxUFNLnra5XC7NTjWKLwI0sU+OckCEDYo5CxM9\nGZVo0FFsR3xDKjQHf1ZKx+1T2yJDHrIhAeBHifdCr2UWbJeEgjM1m4+8qlpm5Ta1\nVsT38g7LVQKBgQCCV/RiwSevblC3CMpHWJqfTQtZFsXX/t32tXw+3QuaT5gJPz7T\nG/JmBQ2nXqdA6ZwEZqlegxpUkuIK1SmJokdCuzKGcd+sh8hd2Lnin4SVCn1QeEKU\n66ywoxdy1+cT1IlHOZ9JmPG0F5JPbsMUzGRkjowWZDus8UUJDhAJdqoF6QKBgQCM\nhbmkZvAIFbsR3YZ1Q6qtlylPRunXbm//IHCxxnz4SIEQXSf5Qr/MZARHMYAgQ0jM\n63E+bJfNwiFqVtENiCktZV7z3VoIxLXiOTvRR8MvLPb+Fip3Z8GDmbJpbQC6r61H\n7ujiMVNT3sULFmcFyrwvrXr28mKfU8n5N9PVxUPnDQKBgQCev7sP2Eiw9Pgz5/eU\nDeMbC2yePvJw0NysvaJFxrl15qYT5QW7h6eJOsgLMVcsoJqwYkkJmMYaJOLtpzu0\n7h1+xgYSjbaeIsvwXo5NkTJS8+6LLTmKxdD7BehpEaGd1s5tX6qKJP4C0XnpqzrZ\nbbFa8BdwJnniXBuwNvJdvpgdzw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "duysiucap@vibrant-depth-415603.iam.gserviceaccount.com",
+  "client_id": "114029160756958526461",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/duysiucap%40vibrant-depth-415603.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,6 @@
+@Web_API_Google_sheet_HostAddress = http://localhost:5191
+
+GET {{Web_API_Google_sheet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

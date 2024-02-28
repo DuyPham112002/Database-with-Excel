@@ -1,0 +1,110 @@
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\appsettings.Development.json
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\appsettings.json
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\vibrant-depth-415603-cae51f038c12.json
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Web API Google sheet.exe
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Web API Google sheet.deps.json
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Web API Google sheet.runtimeconfig.json
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Web API Google sheet.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Web API Google sheet.pdb
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Google.Apis.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Google.Apis.Auth.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Google.Apis.Core.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Google.Apis.Sheets.v4.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Humanizer.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.CodeDom.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\System.Management.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hoc tap\C#\Web API Google sheet\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.csproj.AssemblyReference.cache
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.AssemblyInfoInputs.cache
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.AssemblyInfo.cs
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.csproj.CoreCompileInputs.cache
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.MvcApplicationPartsAssemblyInfo.cs
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.MvcApplicationPartsAssemblyInfo.cache
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets.build.json
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets.development.json
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets\msbuild.Web API Google sheet.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets\msbuild.build.Web API Google sheet.props
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web API Google sheet.props
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web API Google sheet.props
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\scopedcss\bundle\Web API Google sheet.styles.css
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.csproj.CopyComplete
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.dll
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\refint\Web API Google sheet.dll
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.pdb
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\Web API Google sheet.genruntimeconfig.cache
+F:\Hoc tap\C#\Web API Google sheet\obj\Debug\net8.0\ref\Web API Google sheet.dll
